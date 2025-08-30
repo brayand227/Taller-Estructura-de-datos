@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/taller/MAPAS/EDITOR_IMAGENES/EDITOR_IMAGENES.iml" filepath="$PROJECT_DIR$/taller/MAPAS/EDITOR_IMAGENES/EDITOR_IMAGENES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller/MAPAS/INDICE_INVERTIDO/INDICE_INVERTIDO.iml" filepath="$PROJECT_DIR$/taller/MAPAS/INDICE_INVERTIDO/INDICE_INVERTIDO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller/MAPAS/LISTA_REPRODUCCION/LISTA_REPRODUCCION.iml" filepath="$PROJECT_DIR$/taller/MAPAS/LISTA_REPRODUCCION/LISTA_REPRODUCCION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller/MAPAS/MAPAS.iml" filepath="$PROJECT_DIR$/taller/MAPAS/MAPAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller/MAPAS/PLANIFICADOR_IMPRESIONES/PLANIFICADOR_IMPRESIONES.iml" filepath="$PROJECT_DIR$/taller/MAPAS/PLANIFICADOR_IMPRESIONES/PLANIFICADOR_IMPRESIONES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller/MAPAS/PROCESAMIENTOS_LOTES/PROCESAMIENTOS_LOTES.iml" filepath="$PROJECT_DIR$/taller/MAPAS/PROCESAMIENTOS_LOTES/PROCESAMIENTOS_LOTES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller/MAPAS/TARIFA_POR_TRAMOS/TARIFA_POR_TRAMOS.iml" filepath="$PROJECT_DIR$/taller/MAPAS/TARIFA_POR_TRAMOS/TARIFA_POR_TRAMOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tarea colecciones.iml" filepath="$PROJECT_DIR$/Tarea colecciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller/taller.iml" filepath="$PROJECT_DIR$/taller/taller.iml" />
+    </modules>
+  </component>
+</project>
