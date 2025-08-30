@@ -24,6 +24,7 @@ public class PlanificadorImpresion {
         while (!cola.isEmpty()) {
             Trabajo j = cola.poll();
             System.out.println("🖨️ Imprimiendo: " + j);
+            //szs
         }
     }
 }
